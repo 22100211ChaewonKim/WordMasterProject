@@ -5,6 +5,7 @@
 
 ## 4. 단어추가
 난이도 1 driveway (차고 진입로) 입력
+
 <img src = 'https://user-images.githubusercontent.com/103620174/188656481-9bd0df94-6fcf-43aa-84f3-0e1a2ee8df5b.png' width = '300'>
 
 ## 0. 나가기
