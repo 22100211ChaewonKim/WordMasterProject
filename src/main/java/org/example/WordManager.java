@@ -30,11 +30,17 @@ public class WordManager {
         while (true){
             int menu = selectMenu();
 
-            if (menu == 0){
+            if (menu == 0) {
                 break;
             }
             if (menu == 1){
                 wordCRUD.listAll();
+            }
+            if (menu == 2){
+                System.out.println("준비중입니다 .");
+            }
+            if (menu == 3){
+                System.out.println("준비중입니다 .");
             }
             if (menu == 4){
                 wordCRUD.addWord();
