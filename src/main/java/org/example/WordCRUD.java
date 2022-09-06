@@ -30,7 +30,7 @@ public class WordCRUD implements ICRUD {
         //데이타를 리스트에 추가하는 부분  //wordmanager에서 호출할 함수
         Word one = (Word)add();
         list.add(one);
-        System.out.println("새 단어가 단어장에 추가되었습니다. \n");
+        System.out.println("\n♥︎ 알림 ♥︎: 새 단어가 단어장에 추가되었습니다. \n");
     }
 
     @Override
@@ -52,7 +52,7 @@ public class WordCRUD implements ICRUD {
     }
 
     public void listAll() {
-        System.out.println("\n*** 영단어 마스터 ***");
+        System.out.println("\n♡--- 채원이의 작고 소중한 단어장 ---♡");
         System.out.println("------------------------------");
         for(int i = 0; i < list.size(); i++) {
             System.out.print((i+1) + " ");
