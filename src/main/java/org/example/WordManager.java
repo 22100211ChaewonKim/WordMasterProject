@@ -44,8 +44,15 @@ public class WordManager {
                 System.out.println("준비중입니다 .");
             }
             if (menu == 4){
-                wordCRUD.addWord();
+                wordCRUD.addItem(); //이름 통일 !
             }
+            if (menu == 5){ //update
+                wordCRUD.updateItem();
+            }
+            if (menu == 6){ //delete
+                wordCRUD.deleteItem();
+            }
+
         }
     }
 }
