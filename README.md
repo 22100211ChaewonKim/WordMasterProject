@@ -31,8 +31,7 @@
   - 수정할 단어 : apple 검색하기
   - 사과 -> 맛있는 사과 ! 로 수정
  <img src = 'https://user-images.githubusercontent.com/103620174/190442437-218262de-5575-4d95-9ea8-22ae47a8da05.png' width = '300'>
- 
-  -. 수정 후 apple라는 단어를 검색했을 때(메뉴 3) 뜻이 바뀐 것을 확인 할 수 있음.
+  - 수정 후 apple라는 단어를 검색했을 때(메뉴 3) 뜻이 바뀐 것을 확인 할 수 있음.
  <img src = '<img width="313" alt="5-2" src="https://user-images.githubusercontent.com/103620174/190442584-ea7a4909-4ff1-4f90-afda-fd779720629a.png' width = '500'>
  
  
