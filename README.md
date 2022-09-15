@@ -5,6 +5,22 @@
 ## 실행 결과화면
 <img src = 'https://user-images.githubusercontent.com/103620174/188654488-81dd530b-9c28-488b-88f7-444b3aa22e69.png' width = '500'>
 
+## [2. 수준별 단어보기] 메뉴 실행 시 결과 화면
+ 1) 1단계 단어 검색 실행
+<img src = 'https://user-images.githubusercontent.com/103620174/190348770-103d97ed-ccb9-4fef-ac05-d55d315d1c86.png' width = '500'>
+
+ 2) 2단계 단어 검색 실행
+<img src = 'https://user-images.githubusercontent.com/103620174/190349067-2023409d-73a3-4ba8-9107-3ecd83a69fcf.png' width = '500'>
+
+ 3) 3단계 단어 검색 실행
+<img src = 'https://user-images.githubusercontent.com/103620174/190349222-c7e62fa1-2800-4bcc-8ecd-f043dfc8305d.png' width = '500'>
+
+## [3. 단어 검색] 메뉴 실행 시 결과 화면
+ 
+
+
+
+
 
 ## 현재까지 프로젝트를 구현하면서 소감, 어려움, 또는 건의사항 (진행보고서를 제출하며)
  아직까지는 크게 어려운 게 없었다.
