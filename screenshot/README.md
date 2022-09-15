@@ -9,7 +9,7 @@
 <img src = 'https://user-images.githubusercontent.com/103620174/188657663-e73d362d-c47f-4c45-8bef-27d8a867138e.png' width = '300'>
 
 ## 2. 수준별 단어 보기
-<img src = 'https://user-images.githubusercontent.com/103620174/190459323-ca1ff7ab-d0bf-40a6-848f-e51294587eb4.png' width = '300>
+<img src = 'https://user-images.githubusercontent.com/103620174/190459323-ca1ff7ab-d0bf-40a6-848f-e51294587eb4.png' width = '300'>
 
 ## 3. 단어 검색
 <img src = 'https://user-images.githubusercontent.com/103620174/190459430-9e85579a-b971-446c-9f1c-04d153d96ec8.png' width = '300'>
