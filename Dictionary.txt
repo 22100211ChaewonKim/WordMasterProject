@@ -1,3 +1,12 @@
 1|apple|사과
 1|banana|바나나
 2|executive|경영, 간부, 임원
+1|transfer|옮기다, 이동하다
+1|scatter|흩뿌리다, 살포하다
+3|superintendent|관리자, 감독관
+1|electric|전기의, 전기를 생산하는
+2|eye-opener|눈이 휘둥그레질 만한 사건
+2|seagull|갈매기
+3|crouch|쪼그리고 앉다
+3|subordinate|부하의, 하급자의
+2|overkill|지나침, 과잉
