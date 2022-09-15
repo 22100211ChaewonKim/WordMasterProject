@@ -61,4 +61,8 @@ public class Word {
 
         return str;
     }
+
+    public String toFileStirng(){
+        return this.level + "|" + this.word + "|" + this.meaning;
+    }
 }
